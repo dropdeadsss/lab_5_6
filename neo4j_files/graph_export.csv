@@ -1,0 +1,15 @@
+name,labels,properties
+Artificial Intelligence,['Domain'],{'name': 'Artificial Intelligence'}
+Machine Learning,['Technology'],"{'name': 'Machine Learning', 'type': 'ML'}"
+Deep Learning,['Technology'],"{'name': 'Deep Learning', 'type': 'DL'}"
+NLP,['Technology'],"{'name': 'NLP', 'type': 'NLP'}"
+BERT,['Model'],"{'name': 'BERT', 'developer': 'Google'}"
+GPT,['Model'],"{'name': 'GPT', 'developer': 'OpenAI'}"
+Python,['Language'],"{'paradigm': 'multi-paradigm', 'name': 'Python'}"
+PyTorch,['Framework'],"{'name': 'PyTorch', 'language': 'Python'}"
+TensorFlow,['Framework'],"{'name': 'TensorFlow', 'language': 'Python'}"
+Yann LeCun,['Researcher'],"{'field': 'Computer Vision', 'h_index': 180, 'affiliation': 'Facebook AI Research', 'name': 'Yann LeCun'}"
+Andrew Ng,['Researcher'],"{'field': 'Machine Learning', 'h_index': 150, 'affiliation': 'Stanford University', 'name': 'Andrew Ng'}"
+Yoshua Bengio,['Researcher'],"{'field': 'Deep Learning', 'h_index': 170, 'affiliation': 'MILA', 'name': 'Yoshua Bengio'}"
+Geoffrey Hinton,['Researcher'],"{'field': 'Neural Networks', 'h_index': 200, 'affiliation': 'University of Toronto', 'name': 'Geoffrey Hinton'}"
+Demis Hassabis,['Researcher'],"{'field': 'Reinforcement Learning', 'h_index': 80, 'affiliation': 'Google DeepMind', 'name': 'Demis Hassabis'}"
