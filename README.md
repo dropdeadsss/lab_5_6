@@ -34,9 +34,11 @@
 
 ![screenshot](https://github.com/dropdeadsss/lab_5_6/blob/main/imgs/(2)%202.JPG)
 
+Скрипт подгружает данные из csv-файла [ai_researchers.csv](https://github.com/dropdeadsss/lab_5_6/blob/main/neo4j_files/ai_researchers.csv).
+
 ![screenshot](https://github.com/dropdeadsss/lab_5_6/blob/main/imgs/(2)%203.JPG)
 
-Скрипт подгружает данные из csv-файла [ai_researchers.csv](https://github.com/dropdeadsss/lab_5_6/blob/main/neo4j_files/ai_researchers.csv). Далее перейдя по адресу в браузере и введя команду *MATCH (n) RETURN n LIMIT 25*, можно увидеть визуализацию связей в виде графа.
+Перейдя по адресу в браузере и введя команду *MATCH (n) RETURN n LIMIT 25*, можно увидеть визуализацию связей в виде графа.
 
 ![screenshot](https://github.com/dropdeadsss/lab_5_6/blob/main/imgs/(2)%205.JPG)
 
